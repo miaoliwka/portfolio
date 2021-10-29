@@ -15,6 +15,7 @@ Now, I'm focusing on finding a new job and learning my English skills.
 - Selenium 
 - basic of Java
 - TestLink
+- Cucumber
 
 # Skills
 
