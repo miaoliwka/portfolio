@@ -16,6 +16,7 @@ Now, I'm focusing on finding a new job and learning my English skills.
 - basic of Java
 - TestLink
 - Cucumber
+- Page Object Pattern
 
 # Skills
 
@@ -31,5 +32,5 @@ Now, I'm focusing on finding a new job and learning my English skills.
 - CodersLab: Manual Tester
 - CodersLab: Automation Tester
 
-# My test case examples
+# My projects
 
