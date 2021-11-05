@@ -25,6 +25,7 @@ Now, I'm focusing on finding a new job and learning my English skills.
 - creating inquiries in SQL
 - finding elements by.id, by.name, by.className, by.xpath, by.cssSelector
 - using functions of Selenium WebDriver
+- creating tests by using page object pattern
 - creating user stories in Gherkin 
 
 # Courses
@@ -35,4 +36,5 @@ Now, I'm focusing on finding a new job and learning my English skills.
 # My projects
 
 - https://github.com/miaoliwka/project_cucumber_framework.git
+- https://github.com/miaoliwka/project_page_object_pattern.git
 
