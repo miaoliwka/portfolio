@@ -38,6 +38,6 @@ Now, I'm focusing on finding a new job and improving my English skills.
 - [page object pattern project for mystore page](https://github.com/miaoliwka/project_page_object_pattern.git "https://github.com/miaoliwka/project_page_object_pattern.git")
 - [page object pattern project for hotel page](https://github.com/miaoliwka/project2_page_object_pattern.git "https://github.com/miaoliwka/project2_page_object_pattern.git")
 
-# My test cases for mystore-testlab.coderslab.pl
+# My test cases
 
-- [test cases for mystore page](https://drive.google.com/drive/u/0/folders/1Tc5QtWbYx9I7eGuvPnZWxkPVndYFO8CV)
+- [test cases for mystore page](https://drive.google.com/drive/u/0/folders/1Tc5QtWbYx9I7eGuvPnZWxkPVndYFO8CV "https://drive.google.com/drive/u/0/folders/1Tc5QtWbYx9I7eGuvPnZWxkPVndYFO8CV")
