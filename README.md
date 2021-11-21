@@ -36,6 +36,7 @@ Now, I'm focusing on finding a new job and improving my English skills.
 
 - https://github.com/miaoliwka/project_cucumber_framework.git
 - https://github.com/miaoliwka/project_page_object_pattern.git
+- https://github.com/miaoliwka/project2_page_object_pattern.git
 
 # My test cases for mystore-testlab.coderslab.pl
 
