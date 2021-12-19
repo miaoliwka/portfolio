@@ -41,3 +41,8 @@ Now, I'm focusing on finding a new job and improving my English skills.
 # My test cases
 
 - [test cases for mystore page](https://drive.google.com/drive/u/0/folders/1Tc5QtWbYx9I7eGuvPnZWxkPVndYFO8CV "https://drive.google.com/drive/u/0/folders/1Tc5QtWbYx9I7eGuvPnZWxkPVndYFO8CV")
+
+# Examples of bugs 
+
+- [examples of bugs in mystore page](https://drive.google.com/drive/u/0/folders/1R0lM5nlo8s81zV9OzUgnPg-TdaoVY8fO
+"https://drive.google.com/drive/u/0/folders/1R0lM5nlo8s81zV9OzUgnPg-TdaoVY8fO")
