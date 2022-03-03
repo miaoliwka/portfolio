@@ -1,48 +1,48 @@
 
-# About me
+# O mnie
 
-My name is Olivia Baresi. I'm a recent graduate of a Manual and Automation Tester at CodersLab School.
-I have chosen this field of study because I want to develop my skills and knowledge within the IT industry. 
-As this is a very feature-oriented profession, I'm currently looking for opportunities that will help me grow. 
-Now, I'm focusing on finding a new job and improving my English skills.
+Nazywam się Olivia Baresi. Niedawno ukończyłam kursy Testera Manualnego oraz Automatyzującego w szkole CodersLab. 
+Wybrałam ten kierunek, ponieważ chcę rozwijać swoje umiejętności i wiedzę w branży IT.
+Ponieważ jes to bardzo otwarta i pełna perspektyw branża, obecnie szukam możliwości, które pozwolą mi się rozwinąć.
+Obecnie jestem skupiona na szukaniu pracy bądź stażu oraz nauce języka angielskiego.
 
-# Tools
+# Narzędzia
 
 - MySQL 
 - JIRA
 - IntelliJ
 - Selenium 
-- basic of Java
+- podstawy języka Java
 - TestLink
 - Cucumber
 - Page Object Pattern
 
-# Skills
+# Umiejętności 
 
-- creating test cases
-- reporting bugs
-- creating inquiries in SQL
-- finding elements by.id, by.name, by.className, by.xpath, by.cssSelector
-- using functions of Selenium WebDriver
-- creating tests by using page object pattern
-- creating user stories in Gherkin 
+- tworzenie przypadków testowych
+- raportowanie błędów
+- tworzenie zapytań w SQL
+- znajdowanie elementów by.id, by.name, by.className, by.xpath, by.cssSelector
+- używanie funkcji Selenium WebDriver
+- tworzenie testów używając page object pattern
+- tworzenie historyjekw w Gherkin 
 
-# Courses
+# Kursy
 
-- CodersLab: Manual Tester
-- CodersLab: Automation Tester
+- CodersLab: Tester Manualny
+- CodersLab: Tester Automatyzujący
 
-# My projects
+# Moje projekty
 
-- [cucumber framework project](https://github.com/miaoliwka/project_cucumber_framework.git "https://github.com/miaoliwka/project_cucumber_framework.git")
-- [page object pattern project for mystore page](https://github.com/miaoliwka/project_page_object_pattern.git "https://github.com/miaoliwka/project_page_object_pattern.git")
-- [page object pattern project for hotel page](https://github.com/miaoliwka/project2_page_object_pattern.git "https://github.com/miaoliwka/project2_page_object_pattern.git")
+- [cucumber framework projekt](https://github.com/miaoliwka/project_cucumber_framework.git "https://github.com/miaoliwka/project_cucumber_framework.git")
+- [page object pattern projekt dla strony mystore](https://github.com/miaoliwka/project_page_object_pattern.git "https://github.com/miaoliwka/project_page_object_pattern.git")
+- [page object pattern projekt dla strony hotelowej](https://github.com/miaoliwka/project2_page_object_pattern.git "https://github.com/miaoliwka/project2_page_object_pattern.git")
 
-# My test cases
+# Moje przypadki testowe
 
-- [test cases for mystore page](https://drive.google.com/drive/u/0/folders/1Tc5QtWbYx9I7eGuvPnZWxkPVndYFO8CV "https://drive.google.com/drive/u/0/folders/1Tc5QtWbYx9I7eGuvPnZWxkPVndYFO8CV")
+- [przypadki testowe dla strony mystore](https://drive.google.com/drive/u/0/folders/1Tc5QtWbYx9I7eGuvPnZWxkPVndYFO8CV "https://drive.google.com/drive/u/0/folders/1Tc5QtWbYx9I7eGuvPnZWxkPVndYFO8CV")
 
-# Examples of bugs 
+# Przykłady błędów 
 
-- [examples of bugs in mystore page](https://drive.google.com/drive/u/0/folders/1R0lM5nlo8s81zV9OzUgnPg-TdaoVY8fO
+- [przykładowe błędy na stronie mystore](https://drive.google.com/drive/u/0/folders/1R0lM5nlo8s81zV9OzUgnPg-TdaoVY8fO
 "https://drive.google.com/drive/u/0/folders/1R0lM5nlo8s81zV9OzUgnPg-TdaoVY8fO")
